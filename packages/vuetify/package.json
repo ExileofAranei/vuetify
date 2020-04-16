@@ -1,16 +1,22 @@
 {
-  "name": "vuetify",
+  "name": "@exileofaranei/vuetify",
   "description": "Vue Material Component Framework",
-  "version": "2.2.22",
+  "version": "1.0.11",
   "author": {
     "name": "John Leider",
     "email": "john@vuetifyjs.com"
   },
+  "contributors": [
+    {
+      "name": "Denis Mamaev",
+      "email": "anoceanofmyownregret@gmail.com"
+    }
+  ],
   "license": "MIT",
   "homepage": "https://vuetifyjs.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuetifyjs/vuetify.git",
+    "url": "git+https://github.com/exileofaranei/vuetify.git",
     "directory": "packages/vuetify"
   },
   "keywords": [
